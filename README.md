@@ -1,1 +1,2 @@
-Study python in exercises
+#Python
+##tudy python in exercises
